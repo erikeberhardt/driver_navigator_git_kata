@@ -1,3 +1,11 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+<<<<<<< HEAD
+=======
+# Datasource local storage ignored files
+/../../../../../../../:\Users\Erik\Documents\GitHub\driver_navigator_git_kata\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+>>>>>>> dd39c8c3bc05958d78937d1302877a596ac9e296

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (driver_navigator_git_kata)" project-jdk-type="Python SDK" />
+>>>>>>> dd39c8c3bc05958d78937d1302877a596ac9e296
 </project>
